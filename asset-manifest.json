@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.791a310a.css",
+    "main.css": "/my-portfolio/static/css/main.342ceaa2.css",
     "main.js": "/my-portfolio/static/js/main.3056d07d.js",
     "static/media/wordpress-certificate.jpg": "/my-portfolio/static/media/wordpress-certificate.4fed17a579922d917f12.jpg",
     "static/media/coursera-react-certificate.jpg": "/my-portfolio/static/media/coursera-react-certificate.1b2a24b1cd8ad8c73439.jpg",
@@ -12,11 +12,11 @@
     "static/media/form-design.jpg": "/my-portfolio/static/media/form-design.84e609ecdfdaee52aebf.jpg",
     "static/media/react2.webp": "/my-portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
     "index.html": "/my-portfolio/index.html",
-    "main.791a310a.css.map": "/my-portfolio/static/css/main.791a310a.css.map",
+    "main.342ceaa2.css.map": "/my-portfolio/static/css/main.342ceaa2.css.map",
     "main.3056d07d.js.map": "/my-portfolio/static/js/main.3056d07d.js.map"
   },
   "entrypoints": [
-    "static/css/main.791a310a.css",
+    "static/css/main.342ceaa2.css",
     "static/js/main.3056d07d.js"
   ]
 }
