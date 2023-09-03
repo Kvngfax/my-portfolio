@@ -1,5 +1,6 @@
 {
-  "name": "start",
+  "homepage": "http://Kvngfax.github.io/my-portfolio",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start:server": "nodemon server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -43,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "nodemon": "^3.0.1"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
