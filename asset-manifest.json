@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.5867fd59.css",
-    "main.js": "/my-portfolio/static/js/main.3056d07d.js",
+    "main.js": "/my-portfolio/static/js/main.8d1a7d7b.js",
     "static/media/wordpress-certificate.jpg": "/my-portfolio/static/media/wordpress-certificate.4fed17a579922d917f12.jpg",
+    "static/media/frontend-capstone.jpg": "/my-portfolio/static/media/frontend-capstone.b776da82f9e6e0bc8ed4.jpg",
     "static/media/coursera-react-certificate.jpg": "/my-portfolio/static/media/coursera-react-certificate.1b2a24b1cd8ad8c73439.jpg",
     "static/media/intro-bg.jpg": "/my-portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "static/media/coursera-advance-react.jpg": "/my-portfolio/static/media/coursera-advance-react.b513946bf951cede0888.jpg",
@@ -13,10 +14,10 @@
     "static/media/react2.webp": "/my-portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
     "index.html": "/my-portfolio/index.html",
     "main.5867fd59.css.map": "/my-portfolio/static/css/main.5867fd59.css.map",
-    "main.3056d07d.js.map": "/my-portfolio/static/js/main.3056d07d.js.map"
+    "main.8d1a7d7b.js.map": "/my-portfolio/static/js/main.8d1a7d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.5867fd59.css",
-    "static/js/main.3056d07d.js"
+    "static/js/main.8d1a7d7b.js"
   ]
 }
