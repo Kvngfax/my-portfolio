@@ -12,7 +12,7 @@ class HeroImg2 extends Component {
       </div>
     </div>
   )
-  } 
+  }
 }
 
 export default HeroImg2;

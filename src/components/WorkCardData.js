@@ -23,8 +23,7 @@ const ProjectCardData = [
         text: "This is a website that shows the homepage of a news website. It is fully responsive. With Tablet or Phone size and of course laptop screen size. Nice layout!! ",
         view: "https://kvngfax.github.io/News-homepage-main/",
         source :"https://github.com/Kvngfax/News-homepage-main"
-    }
-    
+    },
 ] ;
 
 export default ProjectCardData;
