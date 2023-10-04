@@ -1,6 +1,8 @@
 import pro1 from "../assets/desktop-design.jpg";
 import pro2 from "../assets/form-design.jpg";
 import pro3 from "../assets/news-page-design.jpg";
+import pro4 from "../assets/hoobank.png";
+import pro5 from "../assets/travel-and-tour.png";
 
 const ProjectCardData = [
     {
@@ -23,6 +25,20 @@ const ProjectCardData = [
         text: "This is a website that shows the homepage of a news website. It is fully responsive. With Tablet or Phone size and of course laptop screen size. Nice layout!! ",
         view: "https://kvngfax.github.io/News-homepage-main/",
         source :"https://github.com/Kvngfax/News-homepage-main"
+    },
+    {
+        imgsrc: pro4,
+        title: "Modern Bank App",
+        text: "This is a website that shows a modern bank website. Built using Vite + React, and combined with Tailwind for fast progress. It uses the modern ui/ui design.",
+        view: "https://kvngfax.github.io/hoobank-app/",
+        source :"https://github.com/Kvngfax/hoobank-app"
+    },
+    {
+        imgsrc: pro5,
+        title: "Travel and Tour Website",
+        text: "This is a website that mocks a travel and tour website. It is a website where traveling to different to locations are made available on the website.",
+        view: "https://kvngfax.github.io/hoobank-app/",
+        source :"https://github.com/Kvngfax/hoobank-app"
     },
 ] ;
 
