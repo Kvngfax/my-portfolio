@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.5867fd59.css",
-    "main.js": "/my-portfolio/static/js/main.8d1a7d7b.js",
+    "main.css": "/my-portfolio/static/css/main.b6aa1e9e.css",
+    "main.js": "/my-portfolio/static/js/main.6c791dc8.js",
+    "static/media/hoobank.png": "/my-portfolio/static/media/hoobank.67e1eadd10234e8530bd.png",
     "static/media/wordpress-certificate.jpg": "/my-portfolio/static/media/wordpress-certificate.4fed17a579922d917f12.jpg",
     "static/media/frontend-capstone.jpg": "/my-portfolio/static/media/frontend-capstone.b776da82f9e6e0bc8ed4.jpg",
     "static/media/coursera-react-certificate.jpg": "/my-portfolio/static/media/coursera-react-certificate.1b2a24b1cd8ad8c73439.jpg",
     "static/media/intro-bg.jpg": "/my-portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/travel-and-tour.png": "/my-portfolio/static/media/travel-and-tour.ecf8aa66ec86e41de4e1.png",
     "static/media/coursera-advance-react.jpg": "/my-portfolio/static/media/coursera-advance-react.b513946bf951cede0888.jpg",
     "static/media/news-page-design.jpg": "/my-portfolio/static/media/news-page-design.a17fd9bec7e10f8b8743.jpg",
     "static/media/react1.jpg": "/my-portfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
     "static/media/desktop-design.jpg": "/my-portfolio/static/media/desktop-design.3b6a560ebbc87c939f7b.jpg",
     "static/media/form-design.jpg": "/my-portfolio/static/media/form-design.84e609ecdfdaee52aebf.jpg",
     "static/media/react2.webp": "/my-portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "static/media/react-logo.svg": "/my-portfolio/static/media/react-logo.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/css3-logo.svg": "/my-portfolio/static/media/css3-logo.760a170789bfa4b7e23fd5ae5d0a7415.svg",
+    "static/media/wordpress-logo.svg": "/my-portfolio/static/media/wordpress-logo.e290cf806948eedae6b4452d285eb438.svg",
+    "static/media/vite-logo.svg": "/my-portfolio/static/media/vite-logo.d093fea5c37d0d5a4568150e2e326166.svg",
+    "static/media/html5-logo.svg": "/my-portfolio/static/media/html5-logo.e248da514edac2a2a66bde8fa0166701.svg",
+    "static/media/javascript-logo.svg": "/my-portfolio/static/media/javascript-logo.87a6904ffa190a37c824d0b73ff669c4.svg",
+    "static/media/figma-logo.svg": "/my-portfolio/static/media/figma-logo.eea90cbdb2df47f3f9a77474d7dd244c.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.5867fd59.css.map": "/my-portfolio/static/css/main.5867fd59.css.map",
-    "main.8d1a7d7b.js.map": "/my-portfolio/static/js/main.8d1a7d7b.js.map"
+    "static/media/tailwind-logo.svg": "/my-portfolio/static/media/tailwind-logo.973c73e85d4daa24b257ba20298716c4.svg",
+    "main.b6aa1e9e.css.map": "/my-portfolio/static/css/main.b6aa1e9e.css.map",
+    "main.6c791dc8.js.map": "/my-portfolio/static/js/main.6c791dc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5867fd59.css",
-    "static/js/main.8d1a7d7b.js"
+    "static/css/main.b6aa1e9e.css",
+    "static/js/main.6c791dc8.js"
   ]
 }
